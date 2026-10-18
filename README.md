@@ -18,5 +18,8 @@ A simple web-based application that evaluates password strength and provides fee
 2. Open the HTML file in a web browser.
 3. Enter a sample password to test the strength checker.
 
+#demo
+https://tangerine-narwhal-6dfdc0.netlify.app/
+
 ## Purpose
 This project demonstrates basic web development and password security concepts.
